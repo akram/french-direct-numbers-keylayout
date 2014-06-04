@@ -4,7 +4,7 @@ To install it simply copy the "French Direct Numbers.keylayout" file in /System/
 - Then restart your finder (Force quit, then Relaunch on Finder process).
 - Then go to Keyboard menu in System preference pane and add "French Direct Numbers" as the keyboard layouts list.
 
-'sudo cp "French Direct Numbers.keylayout"  /System/Library/Keyboard Layouts/
+' sudo cp "French Direct Numbers.keylayout"  /System/Library/Keyboard Layouts/
 
 
 
