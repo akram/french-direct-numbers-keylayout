@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
 <!--Created by Ukelele version 2.2.8 on 2014-06-04 at 12:20 (GMT+2)-->
-<!--Last edited by Ukelele version 2.2.8 on 2014-06-04 at 12:26 (GMT+2)-->
-<keyboard group="0" id="10159" name="French Direct Numbers" maxout="1">
+<!--Last edited by Ukelele version 2.2.8 on 2014-06-04 at 15:34 (GMT+2)-->
+<keyboard group="0" id="10159" name="French #" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
     </layouts>
