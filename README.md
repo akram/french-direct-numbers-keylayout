@@ -2,9 +2,10 @@
 
 To install it simply copy the "French Direct Numbers.keylayout" file in /System/Library/Keyboard Layouts/ directory.
 ```
-curl https://raw.githubusercontent.com/akram/french-direct-numbers-keylayout/master/French%20Direct%20Numbers.keylayout \
-     -o "French Direct Numbers.keylayout" 
-sudo cp "French Direct Numbers.keylayout"  "/Library/Keyboard Layouts/"
+REPO=https://raw.githubusercontent.com/akram/french-direct-numbers-keylayout/master/
+wget $REPO/FrenchDirectNumbers.keylayout 
+wget $REPO/FrenchDirectNumbers.icns
+sudo cp FrenchDirectNumbers.*  /Library/Keyboard\ Layouts/
 ```
 
 
